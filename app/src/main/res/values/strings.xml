@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cat vs Dog Classifier</string>
+    <string name="cat">A cat 😺</string>
+    <string name="dog">A dog 🐶</string>
+    <string name="confidence">Confidence: %1$d%%</string>
+</resources>
